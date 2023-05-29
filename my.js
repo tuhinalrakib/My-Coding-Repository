@@ -148,4 +148,4 @@
 // var shape=new Shape()
 // console.log(sqr);
 // console.log(shape);
-let 
+let width=25
